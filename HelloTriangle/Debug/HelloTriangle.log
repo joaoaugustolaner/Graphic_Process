@@ -1,0 +1,13 @@
+﻿  GameObject.cpp
+  Material.cpp
+  SceneManager.cpp
+C:\Dev\TGB\HelloTriangle\SceneManager.cpp(244,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Dev\TGB\HelloTriangle\SceneManager.cpp(413,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Dev\TGB\HelloTriangle\SceneManager.cpp(437,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Source.cpp
+  stb_image.cpp
+  Gerando Código...
+  glad.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinição de macro
+C:\Dev\TGB\dependencies\glad\include\glad\glad.h(32): message : consulte a definição anterior de 'APIENTRY'
+  HelloTriangle.vcxproj -> C:\Dev\TGB\Debug\GameObjects.exe
